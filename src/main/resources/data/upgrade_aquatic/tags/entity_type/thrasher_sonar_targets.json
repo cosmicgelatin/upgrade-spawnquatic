@@ -1,0 +1,15 @@
+{
+  "values": [
+    "spawn:angler_fish",
+    "spawn:barracuda",
+    "spawn:blenny",
+    "spawn:bluefish",
+    "spawn:coastal_crab",
+    "spawn:herring",
+    "spawn:marine_iguana",
+    "spawn:pilot_fish",
+    "spawn:seahorse",
+    "spawn:seal",
+    "spawn:tuna"
+  ]
+}

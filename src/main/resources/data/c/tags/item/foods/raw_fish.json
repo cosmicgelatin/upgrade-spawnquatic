@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#spawn:raw_fishes/bluefish",
+    "#spawn:raw_fishes/herring",
+    "#spawn:raw_fishes/tuna"
+  ]
+}

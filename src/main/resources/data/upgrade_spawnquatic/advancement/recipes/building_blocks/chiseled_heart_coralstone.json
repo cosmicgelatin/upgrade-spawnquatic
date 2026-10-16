@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_heart_coralstone_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "upgrade_spawnquatic:heart_coralstone_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "upgrade_spawnquatic:chiseled_heart_coralstone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_heart_coralstone_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "upgrade_spawnquatic:chiseled_heart_coralstone"
+    ]
+  }
+}

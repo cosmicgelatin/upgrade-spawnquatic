@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_reed_coralstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "upgrade_spawnquatic:reed_coralstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "upgrade_spawnquatic:reed_coralstone_wall_from_reed_coralstone_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_reed_coralstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "upgrade_spawnquatic:reed_coralstone_wall_from_reed_coralstone_stonecutting"
+    ]
+  }
+}

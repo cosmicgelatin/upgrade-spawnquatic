@@ -1,0 +1,7 @@
+{
+  "values": {
+    "spawn:blasted_sandstone": {
+      "falling_block": "spawn:blasted_sand"
+    }
+  }
+}

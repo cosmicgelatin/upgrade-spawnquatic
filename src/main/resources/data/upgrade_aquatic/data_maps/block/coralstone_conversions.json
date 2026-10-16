@@ -1,0 +1,39 @@
+{
+  "values": {
+    "spawn:wax_coral_block": {
+      "chiseled_coralstone": "upgrade_spawnquatic:chiseled_wax_coralstone",
+      "coralstone": "upgrade_spawnquatic:wax_coralstone",
+      "coralstone_slab": "upgrade_spawnquatic:wax_coralstone_slab",
+      "coralstone_stairs": "upgrade_spawnquatic:wax_coralstone_stairs",
+      "coralstone_wall": "upgrade_spawnquatic:wax_coralstone_wall"
+    },
+    "spawn:thorn_coral_block": {
+      "chiseled_coralstone": "upgrade_spawnquatic:chiseled_thorn_coralstone",
+      "coralstone": "upgrade_spawnquatic:thorn_coralstone",
+      "coralstone_slab": "upgrade_spawnquatic:thorn_coralstone_slab",
+      "coralstone_stairs": "upgrade_spawnquatic:thorn_coralstone_stairs",
+      "coralstone_wall": "upgrade_spawnquatic:thorn_coralstone_wall"
+    },
+    "spawn:spike_coral_block": {
+      "chiseled_coralstone": "upgrade_spawnquatic:chiseled_spike_coralstone",
+      "coralstone": "upgrade_spawnquatic:spike_coralstone",
+      "coralstone_slab": "upgrade_spawnquatic:spike_coralstone_slab",
+      "coralstone_stairs": "upgrade_spawnquatic:spike_coralstone_stairs",
+      "coralstone_wall": "upgrade_spawnquatic:spike_coralstone_wall"
+    },
+    "spawn:heart_coral_block": {
+      "chiseled_coralstone": "upgrade_spawnquatic:chiseled_heart_coralstone",
+      "coralstone": "upgrade_spawnquatic:heart_coralstone",
+      "coralstone_slab": "upgrade_spawnquatic:heart_coralstone_slab",
+      "coralstone_stairs": "upgrade_spawnquatic:heart_coralstone_stairs",
+      "coralstone_wall": "upgrade_spawnquatic:heart_coralstone_wall"
+    },
+    "spawn:reed_coral_block": {
+      "chiseled_coralstone": "upgrade_spawnquatic:chiseled_reed_coralstone",
+      "coralstone": "upgrade_spawnquatic:reed_coralstone",
+      "coralstone_slab": "upgrade_spawnquatic:reed_coralstone_slab",
+      "coralstone_stairs": "upgrade_spawnquatic:reed_coralstone_stairs",
+      "coralstone_wall": "upgrade_spawnquatic:reed_coralstone_wall"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "upgrade_spawnquatic:block/heart_coralstone",
+        "top": "upgrade_spawnquatic:block/heart_coralstone",
+        "side": "upgrade_spawnquatic:block/heart_coralstone"
+    }
+}
